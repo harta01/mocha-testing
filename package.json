@@ -1,0 +1,27 @@
+{
+  "name": "mocha-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harta01/mocha-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harta01/mocha-testing/issues"
+  },
+  "homepage": "https://github.com/harta01/mocha-testing#readme",
+  "dependencies": {
+    "chai": "^3.0.0",
+    "expect": "^1.6.0",
+    "should": "^7.0.1"
+  }
+}
